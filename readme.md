@@ -1,7 +1,7 @@
 # !-Note
 The documentation is not ready yet
 
-# [Demo](https://oficcial.github.io/ayLib-events.js/)
+# [Demo](https://oficcial.github.io/ayLib-events.js/v1.0/)
 
 # To run it 
 add This in the html's head element 
